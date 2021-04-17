@@ -1,3 +1,3 @@
 # GraduateDrivingProject
-Scanning driver's behavior using BaiDuAI 
+Scanning driver's behavior using BaiduAI \n
 NOT FINISHED AT ALL!
